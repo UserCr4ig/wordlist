@@ -1,0 +1,25 @@
+api keys
+api endpoint
+api get keys
+apache
+api keys
+api endpoint
+authentication information
+passwords
+database configuration
+secret keys
+sensitive configuration files
+usernames
+login credentials
+SSL certificates
+private keys
+authentication tokens
+api tokens
+SSH login information
+server configuration
+internal IP addresses
+internal server IP addresses
+network security information
+credit card
+payment token
+employee list
